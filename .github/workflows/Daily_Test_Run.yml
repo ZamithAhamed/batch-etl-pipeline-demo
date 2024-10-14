@@ -2,7 +2,7 @@ name: Ballerina Daily Test
 
 on:
   schedule:
-    - cron: '10 7 * * *'
+    - cron: '20 19 * * *'
 
 jobs:
   test:
